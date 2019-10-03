@@ -1,6 +1,6 @@
 # Common
 
-To run a program simply download the executable on a Windows machine and run it. I believe the rlutil library is specific to Windows, and I don't have a Mac so I couldn't generate a .app file and test it, but you're welcome to try. If for some reason the executable doesn't run, clone the repository and run compile.sh to rebuild them.
+To run a program simply download the executable on a Windows machine and run it. I believe the rlutil library is specific to Windows, and I don't have a Mac so I couldn't generate a .app file and test it, but you're welcome to try. If for some reason the executable doesn't run, you can clone the repository and run compile.sh to rebuild them. Make sure you have g++ installed if you do this.
 
 External libraries:
 - [rlutil.h](https://github.com/tapio/rlutil), used for repositioning cursor within console.
